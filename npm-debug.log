@@ -1,0 +1,553 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\Server\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\\\node.exe',
+1 verbose cli   'D:\\Server\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '--save',
+1 verbose cli   'react',
+1 verbose cli   'react-dom',
+1 verbose cli   'babelify',
+1 verbose cli   'babel-preset-react' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.15
+4 verbose node symlink D:\Server\AppCanStudioPersonalV3.2\HDK\emulator\mas\\node.exe
+5 warn package.json reactjs@0.0.0 No description
+6 warn package.json reactjs@0.0.0 No README data
+7 verbose readDependencies using package.json deps
+8 verbose cache add [ 'react@~0.14.3', null ]
+9 verbose cache add name=undefined spec="react@~0.14.3" args=["react@~0.14.3",null]
+10 verbose parsed url { protocol: null,
+10 verbose parsed url   slashes: null,
+10 verbose parsed url   auth: null,
+10 verbose parsed url   host: null,
+10 verbose parsed url   port: null,
+10 verbose parsed url   hostname: null,
+10 verbose parsed url   hash: null,
+10 verbose parsed url   search: null,
+10 verbose parsed url   query: null,
+10 verbose parsed url   pathname: 'react@~0.14.3',
+10 verbose parsed url   path: 'react@~0.14.3',
+10 verbose parsed url   href: 'react@~0.14.3' }
+11 verbose cache add name="react" spec="~0.14.3" args=["react","~0.14.3"]
+12 verbose parsed url { protocol: null,
+12 verbose parsed url   slashes: null,
+12 verbose parsed url   auth: null,
+12 verbose parsed url   host: null,
+12 verbose parsed url   port: null,
+12 verbose parsed url   hostname: null,
+12 verbose parsed url   hash: null,
+12 verbose parsed url   search: null,
+12 verbose parsed url   query: null,
+12 verbose parsed url   pathname: '~0.14.3',
+12 verbose parsed url   path: '~0.14.3',
+12 verbose parsed url   href: '~0.14.3' }
+13 verbose addNamed [ 'react', '~0.14.3' ]
+14 verbose addNamed [ null, '>=0.14.3-0 <0.15.0-0' ]
+15 verbose cache add [ 'react-dom@~0.14.3', null ]
+16 verbose cache add name=undefined spec="react-dom@~0.14.3" args=["react-dom@~0.14.3",null]
+17 verbose parsed url { protocol: null,
+17 verbose parsed url   slashes: null,
+17 verbose parsed url   auth: null,
+17 verbose parsed url   host: null,
+17 verbose parsed url   port: null,
+17 verbose parsed url   hostname: null,
+17 verbose parsed url   hash: null,
+17 verbose parsed url   search: null,
+17 verbose parsed url   query: null,
+17 verbose parsed url   pathname: 'react-dom@~0.14.3',
+17 verbose parsed url   path: 'react-dom@~0.14.3',
+17 verbose parsed url   href: 'react-dom@~0.14.3' }
+18 verbose cache add name="react-dom" spec="~0.14.3" args=["react-dom","~0.14.3"]
+19 verbose parsed url { protocol: null,
+19 verbose parsed url   slashes: null,
+19 verbose parsed url   auth: null,
+19 verbose parsed url   host: null,
+19 verbose parsed url   port: null,
+19 verbose parsed url   hostname: null,
+19 verbose parsed url   hash: null,
+19 verbose parsed url   search: null,
+19 verbose parsed url   query: null,
+19 verbose parsed url   pathname: '~0.14.3',
+19 verbose parsed url   path: '~0.14.3',
+19 verbose parsed url   href: '~0.14.3' }
+20 verbose addNamed [ 'react-dom', '~0.14.3' ]
+21 verbose addNamed [ null, '>=0.14.3-0 <0.15.0-0' ]
+22 verbose cache add [ 'babelify@~7.2.0', null ]
+23 verbose cache add name=undefined spec="babelify@~7.2.0" args=["babelify@~7.2.0",null]
+24 verbose parsed url { protocol: null,
+24 verbose parsed url   slashes: null,
+24 verbose parsed url   auth: null,
+24 verbose parsed url   host: null,
+24 verbose parsed url   port: null,
+24 verbose parsed url   hostname: null,
+24 verbose parsed url   hash: null,
+24 verbose parsed url   search: null,
+24 verbose parsed url   query: null,
+24 verbose parsed url   pathname: 'babelify@~7.2.0',
+24 verbose parsed url   path: 'babelify@~7.2.0',
+24 verbose parsed url   href: 'babelify@~7.2.0' }
+25 verbose cache add name="babelify" spec="~7.2.0" args=["babelify","~7.2.0"]
+26 verbose parsed url { protocol: null,
+26 verbose parsed url   slashes: null,
+26 verbose parsed url   auth: null,
+26 verbose parsed url   host: null,
+26 verbose parsed url   port: null,
+26 verbose parsed url   hostname: null,
+26 verbose parsed url   hash: null,
+26 verbose parsed url   search: null,
+26 verbose parsed url   query: null,
+26 verbose parsed url   pathname: '~7.2.0',
+26 verbose parsed url   path: '~7.2.0',
+26 verbose parsed url   href: '~7.2.0' }
+27 verbose addNamed [ 'babelify', '~7.2.0' ]
+28 verbose addNamed [ null, '>=7.2.0-0 <7.3.0-0' ]
+29 verbose cache add [ 'babel-preset-react@~6.3.13', null ]
+30 verbose cache add name=undefined spec="babel-preset-react@~6.3.13" args=["babel-preset-react@~6.3.13",null]
+31 verbose parsed url { protocol: null,
+31 verbose parsed url   slashes: null,
+31 verbose parsed url   auth: null,
+31 verbose parsed url   host: null,
+31 verbose parsed url   port: null,
+31 verbose parsed url   hostname: null,
+31 verbose parsed url   hash: null,
+31 verbose parsed url   search: null,
+31 verbose parsed url   query: null,
+31 verbose parsed url   pathname: 'babel-preset-react@~6.3.13',
+31 verbose parsed url   path: 'babel-preset-react@~6.3.13',
+31 verbose parsed url   href: 'babel-preset-react@~6.3.13' }
+32 verbose cache add name="babel-preset-react" spec="~6.3.13" args=["babel-preset-react","~6.3.13"]
+33 verbose parsed url { protocol: null,
+33 verbose parsed url   slashes: null,
+33 verbose parsed url   auth: null,
+33 verbose parsed url   host: null,
+33 verbose parsed url   port: null,
+33 verbose parsed url   hostname: null,
+33 verbose parsed url   hash: null,
+33 verbose parsed url   search: null,
+33 verbose parsed url   query: null,
+33 verbose parsed url   pathname: '~6.3.13',
+33 verbose parsed url   path: '~6.3.13',
+33 verbose parsed url   href: '~6.3.13' }
+34 verbose addNamed [ 'babel-preset-react', '~6.3.13' ]
+35 verbose addNamed [ null, '>=6.3.13-0 <6.4.0-0' ]
+36 silly lockFile 924ad5fa-react-0-14-3 react@~0.14.3
+37 verbose lock react@~0.14.3 d:\Users\changq\AppData\Roaming\npm-cache\924ad5fa-react-0-14-3.lock
+38 silly lockFile af20b8de-react-dom-0-14-3 react-dom@~0.14.3
+39 verbose lock react-dom@~0.14.3 d:\Users\changq\AppData\Roaming\npm-cache\af20b8de-react-dom-0-14-3.lock
+40 silly lockFile e3f8cc72-babelify-7-2-0 babelify@~7.2.0
+41 verbose lock babelify@~7.2.0 d:\Users\changq\AppData\Roaming\npm-cache\e3f8cc72-babelify-7-2-0.lock
+42 silly lockFile 5eb70b91-babel-preset-react-6-3-13 babel-preset-react@~6.3.13
+43 verbose lock babel-preset-react@~6.3.13 d:\Users\changq\AppData\Roaming\npm-cache\5eb70b91-babel-preset-react-6-3-13.lock
+44 silly addNameRange { name: 'react', range: '>=0.14.3-0 <0.15.0-0', hasData: false }
+45 silly addNameRange { name: 'react-dom',
+45 silly addNameRange   range: '>=0.14.3-0 <0.15.0-0',
+45 silly addNameRange   hasData: false }
+46 silly addNameRange { name: 'babel-preset-react',
+46 silly addNameRange   range: '>=6.3.13-0 <6.4.0-0',
+46 silly addNameRange   hasData: false }
+47 silly addNameRange { name: 'babelify', range: '>=7.2.0-0 <7.3.0-0', hasData: false }
+48 verbose url raw react-dom
+49 verbose url resolving [ 'http://registry.npmjs.org/', './react-dom' ]
+50 verbose url resolved http://registry.npmjs.org/react-dom
+51 info trying registry request attempt 1 at 14:11:40
+52 verbose etag "1XM8Y4HJTUIR7O2D9UIBM3K5A"
+53 http GET http://registry.npmjs.org/react-dom
+54 verbose url raw react
+55 verbose url resolving [ 'http://registry.npmjs.org/', './react' ]
+56 verbose url resolved http://registry.npmjs.org/react
+57 info trying registry request attempt 1 at 14:11:40
+58 verbose etag "C30X1W1T6T5FMOMSH0JHYNX1Q"
+59 http GET http://registry.npmjs.org/react
+60 verbose url raw babel-preset-react
+61 verbose url resolving [ 'http://registry.npmjs.org/', './babel-preset-react' ]
+62 verbose url resolved http://registry.npmjs.org/babel-preset-react
+63 info trying registry request attempt 1 at 14:11:40
+64 verbose etag "7EOADXEJWRB68KVLIS8KECE1A"
+65 http GET http://registry.npmjs.org/babel-preset-react
+66 verbose url raw babelify
+67 verbose url resolving [ 'http://registry.npmjs.org/', './babelify' ]
+68 verbose url resolved http://registry.npmjs.org/babelify
+69 info trying registry request attempt 1 at 14:11:40
+70 verbose etag "B9VJMNRZD6O5ELX6MA6HNNARF"
+71 http GET http://registry.npmjs.org/babelify
+72 http 304 http://registry.npmjs.org/react-dom
+73 silly registry.get cb [ 304,
+73 silly registry.get   { date: 'Mon, 14 Dec 2015 06:11:41 GMT',
+73 silly registry.get     via: '1.1 varnish',
+73 silly registry.get     'cache-control': 'max-age=300',
+73 silly registry.get     etag: '"1XM8Y4HJTUIR7O2D9UIBM3K5A"',
+73 silly registry.get     age: '58',
+73 silly registry.get     connection: 'keep-alive',
+73 silly registry.get     'x-served-by': 'cache-nrt6125-NRT',
+73 silly registry.get     'x-cache': 'HIT',
+73 silly registry.get     'x-cache-hits': '1',
+73 silly registry.get     'x-timer': 'S1450073501.074657,VS0,VE0',
+73 silly registry.get     vary: 'Accept' } ]
+74 verbose etag react-dom from cache
+75 silly addNameRange number 2 { name: 'react-dom',
+75 silly addNameRange   range: '>=0.14.3-0 <0.15.0-0',
+75 silly addNameRange   hasData: true }
+76 silly addNameRange versions [ 'react-dom',
+76 silly addNameRange   [ '0.1.0',
+76 silly addNameRange     '0.14.0-beta1',
+76 silly addNameRange     '0.14.0-beta2',
+76 silly addNameRange     '0.14.0-beta3',
+76 silly addNameRange     '0.14.0-rc1',
+76 silly addNameRange     '0.14.0',
+76 silly addNameRange     '0.14.1',
+76 silly addNameRange     '0.14.2',
+76 silly addNameRange     '0.14.3' ] ]
+77 verbose addNamed [ 'react-dom', '0.14.3' ]
+78 verbose addNamed [ '0.14.3', '0.14.3' ]
+79 silly lockFile b6ba3ba3-react-dom-0-14-3 react-dom@0.14.3
+80 verbose lock react-dom@0.14.3 d:\Users\changq\AppData\Roaming\npm-cache\b6ba3ba3-react-dom-0-14-3.lock
+81 http 304 http://registry.npmjs.org/babelify
+82 silly registry.get cb [ 304,
+82 silly registry.get   { date: 'Mon, 14 Dec 2015 06:11:41 GMT',
+82 silly registry.get     via: '1.1 varnish',
+82 silly registry.get     'cache-control': 'max-age=300',
+82 silly registry.get     etag: '"B9VJMNRZD6O5ELX6MA6HNNARF"',
+82 silly registry.get     age: '58',
+82 silly registry.get     connection: 'keep-alive',
+82 silly registry.get     'x-served-by': 'cache-nrt6121-NRT',
+82 silly registry.get     'x-cache': 'HIT',
+82 silly registry.get     'x-cache-hits': '1',
+82 silly registry.get     'x-timer': 'S1450073501.081225,VS0,VE0',
+82 silly registry.get     vary: 'Accept' } ]
+83 verbose etag babelify from cache
+84 silly lockFile b6ba3ba3-react-dom-0-14-3 react-dom@0.14.3
+85 silly lockFile b6ba3ba3-react-dom-0-14-3 react-dom@0.14.3
+86 silly lockFile af20b8de-react-dom-0-14-3 react-dom@~0.14.3
+87 silly lockFile af20b8de-react-dom-0-14-3 react-dom@~0.14.3
+88 silly addNameRange number 2 { name: 'babelify', range: '>=7.2.0-0 <7.3.0-0', hasData: true }
+89 silly addNameRange versions [ 'babelify',
+89 silly addNameRange   [ '5.0.1',
+89 silly addNameRange     '5.0.2',
+89 silly addNameRange     '5.0.3',
+89 silly addNameRange     '5.0.4',
+89 silly addNameRange     '6.0.0',
+89 silly addNameRange     '5.0.5',
+89 silly addNameRange     '6.0.1',
+89 silly addNameRange     '6.0.2',
+89 silly addNameRange     '6.1.0',
+89 silly addNameRange     '6.1.1',
+89 silly addNameRange     '6.1.2',
+89 silly addNameRange     '6.1.3',
+89 silly addNameRange     '6.2.0',
+89 silly addNameRange     '6.3.0',
+89 silly addNameRange     '6.4.0',
+89 silly addNameRange     '7.0.0',
+89 silly addNameRange     '7.0.1',
+89 silly addNameRange     '7.0.2',
+89 silly addNameRange     '7.1.0',
+89 silly addNameRange     '7.2.0' ] ]
+90 verbose addNamed [ 'babelify', '7.2.0' ]
+91 verbose addNamed [ '7.2.0', '7.2.0' ]
+92 silly lockFile 8f849268-babelify-7-2-0 babelify@7.2.0
+93 verbose lock babelify@7.2.0 d:\Users\changq\AppData\Roaming\npm-cache\8f849268-babelify-7-2-0.lock
+94 silly lockFile 8f849268-babelify-7-2-0 babelify@7.2.0
+95 silly lockFile 8f849268-babelify-7-2-0 babelify@7.2.0
+96 silly lockFile e3f8cc72-babelify-7-2-0 babelify@~7.2.0
+97 silly lockFile e3f8cc72-babelify-7-2-0 babelify@~7.2.0
+98 http 304 http://registry.npmjs.org/react
+99 silly registry.get cb [ 304,
+99 silly registry.get   { date: 'Mon, 14 Dec 2015 06:11:41 GMT',
+99 silly registry.get     via: '1.1 varnish',
+99 silly registry.get     'cache-control': 'max-age=300',
+99 silly registry.get     etag: '"C30X1W1T6T5FMOMSH0JHYNX1Q"',
+99 silly registry.get     age: '216',
+99 silly registry.get     connection: 'keep-alive',
+99 silly registry.get     'x-served-by': 'cache-nrt6124-NRT',
+99 silly registry.get     'x-cache': 'HIT',
+99 silly registry.get     'x-cache-hits': '1',
+99 silly registry.get     'x-timer': 'S1450073501.157581,VS0,VE4',
+99 silly registry.get     vary: 'Accept' } ]
+100 verbose etag react from cache
+101 silly addNameRange number 2 { name: 'react', range: '>=0.14.3-0 <0.15.0-0', hasData: true }
+102 silly addNameRange versions [ 'react',
+102 silly addNameRange   [ '0.0.1',
+102 silly addNameRange     '0.0.2',
+102 silly addNameRange     '0.0.3',
+102 silly addNameRange     '0.1.2',
+102 silly addNameRange     '0.2.0',
+102 silly addNameRange     '0.2.1',
+102 silly addNameRange     '0.2.2',
+102 silly addNameRange     '0.2.3',
+102 silly addNameRange     '0.2.4',
+102 silly addNameRange     '0.2.5',
+102 silly addNameRange     '0.2.6',
+102 silly addNameRange     '0.3.0',
+102 silly addNameRange     '0.3.4',
+102 silly addNameRange     '0.3.5',
+102 silly addNameRange     '0.5.0',
+102 silly addNameRange     '0.5.1',
+102 silly addNameRange     '0.5.2',
+102 silly addNameRange     '0.6.0',
+102 silly addNameRange     '0.6.1',
+102 silly addNameRange     '0.6.2',
+102 silly addNameRange     '0.6.3',
+102 silly addNameRange     '0.7.0',
+102 silly addNameRange     '0.7.1',
+102 silly addNameRange     '0.8.0',
+102 silly addNameRange     '0.9.0-rc1',
+102 silly addNameRange     '0.9.0',
+102 silly addNameRange     '0.10.0-rc1',
+102 silly addNameRange     '0.10.0',
+102 silly addNameRange     '0.11.0-rc1',
+102 silly addNameRange     '0.11.0',
+102 silly addNameRange     '0.11.1',
+102 silly addNameRange     '0.11.2',
+102 silly addNameRange     '0.12.0-rc1',
+102 silly addNameRange     '0.12.0',
+102 silly addNameRange     '0.12.1',
+102 silly addNameRange     '0.12.2',
+102 silly addNameRange     '0.13.0-alpha.1',
+102 silly addNameRange     '0.13.0-alpha.2',
+102 silly addNameRange     '0.13.0-beta.1',
+102 silly addNameRange     '0.13.0-beta.2',
+102 silly addNameRange     '0.13.0-rc1',
+102 silly addNameRange     '0.13.0-rc2',
+102 silly addNameRange     '0.13.0',
+102 silly addNameRange     '0.13.1',
+102 silly addNameRange     '0.13.2',
+102 silly addNameRange     '0.13.3',
+102 silly addNameRange     '0.14.0-alpha1',
+102 silly addNameRange     '0.14.0-alpha2',
+102 silly addNameRange     '0.14.0-alpha3',
+102 silly addNameRange     '0.14.0-beta1',
+102 silly addNameRange     '0.14.0-beta2',
+102 silly addNameRange     '0.14.0-beta3',
+102 silly addNameRange     '0.14.0-rc1',
+102 silly addNameRange     '0.14.0',
+102 silly addNameRange     '0.14.1',
+102 silly addNameRange     '0.14.2',
+102 silly addNameRange     '0.14.3' ] ]
+103 verbose addNamed [ 'react', '0.14.3' ]
+104 verbose addNamed [ '0.14.3', '0.14.3' ]
+105 silly lockFile 278dd4f9-react-0-14-3 react@0.14.3
+106 verbose lock react@0.14.3 d:\Users\changq\AppData\Roaming\npm-cache\278dd4f9-react-0-14-3.lock
+107 silly lockFile 278dd4f9-react-0-14-3 react@0.14.3
+108 silly lockFile 278dd4f9-react-0-14-3 react@0.14.3
+109 silly lockFile 924ad5fa-react-0-14-3 react@~0.14.3
+110 silly lockFile 924ad5fa-react-0-14-3 react@~0.14.3
+111 http 304 http://registry.npmjs.org/babel-preset-react
+112 silly registry.get cb [ 304,
+112 silly registry.get   { date: 'Mon, 14 Dec 2015 06:11:41 GMT',
+112 silly registry.get     via: '1.1 varnish',
+112 silly registry.get     'cache-control': 'max-age=300',
+112 silly registry.get     etag: '"7EOADXEJWRB68KVLIS8KECE1A"',
+112 silly registry.get     age: '0',
+112 silly registry.get     connection: 'keep-alive',
+112 silly registry.get     'x-served-by': 'cache-nrt6124-NRT',
+112 silly registry.get     'x-cache': 'HIT',
+112 silly registry.get     'x-cache-hits': '1',
+112 silly registry.get     'x-timer': 'S1450073501.085034,VS0,VE386',
+112 silly registry.get     vary: 'Accept' } ]
+113 verbose etag babel-preset-react from cache
+114 silly addNameRange number 2 { name: 'babel-preset-react',
+114 silly addNameRange   range: '>=6.3.13-0 <6.4.0-0',
+114 silly addNameRange   hasData: true }
+115 silly addNameRange versions [ 'babel-preset-react',
+115 silly addNameRange   [ '6.0.2',
+115 silly addNameRange     '6.0.12',
+115 silly addNameRange     '6.0.14',
+115 silly addNameRange     '6.0.15',
+115 silly addNameRange     '6.1.2',
+115 silly addNameRange     '6.1.4',
+115 silly addNameRange     '6.1.17',
+115 silly addNameRange     '6.1.18',
+115 silly addNameRange     '6.2.4',
+115 silly addNameRange     '6.3.13' ] ]
+116 verbose addNamed [ 'babel-preset-react', '6.3.13' ]
+117 verbose addNamed [ '6.3.13', '6.3.13' ]
+118 silly lockFile 5692bf74-babel-preset-react-6-3-13 babel-preset-react@6.3.13
+119 verbose lock babel-preset-react@6.3.13 d:\Users\changq\AppData\Roaming\npm-cache\5692bf74-babel-preset-react-6-3-13.lock
+120 silly lockFile 5692bf74-babel-preset-react-6-3-13 babel-preset-react@6.3.13
+121 silly lockFile 5692bf74-babel-preset-react-6-3-13 babel-preset-react@6.3.13
+122 silly lockFile 5eb70b91-babel-preset-react-6-3-13 babel-preset-react@~6.3.13
+123 silly lockFile 5eb70b91-babel-preset-react-6-3-13 babel-preset-react@~6.3.13
+124 silly resolved [ { name: 'react-dom',
+124 silly resolved     version: '0.14.3',
+124 silly resolved     description: 'React package for working with the DOM.',
+124 silly resolved     main: 'index.js',
+124 silly resolved     repository: { type: 'git', url: 'git://github.com/facebook/react' },
+124 silly resolved     keywords: [ 'react' ],
+124 silly resolved     license: 'BSD-3-Clause',
+124 silly resolved     bugs: { url: 'https://github.com/facebook/react/issues' },
+124 silly resolved     homepage: 'https://github.com/facebook/react/tree/master/npm-react-dom',
+124 silly resolved     peerDependencies: { react: '^0.14.3' },
+124 silly resolved     scripts: { start: 'node server.js' },
+124 silly resolved     readme: '# `react-dom`\n\nThis package serves as the entry point of the DOM-related rendering paths. It is intended to be paired with the isomorphic React, which will be shipped as `react` to npm.\n\n## Installation\n\n```sh\nnpm install react react-dom\n```\n\n## Usage\n\n### In the browser\n\n```js\nvar React = require(\'react\');\nvar ReactDOM = require(\'react-dom\');\n\nclass MyComponent extends React.Component {\n  render() {\n    return <div>Hello World</div>;\n  }\n}\n\nReactDOM.render(<MyComponent />, node);\n```\n\n### On the server\n\n```js\nvar React = require(\'react\');\nvar ReactDOMServer = require(\'react-dom/server\');\n\nclass MyComponent extends React.Component {\n  render() {\n    return <div>Hello World</div>;\n  }\n}\n\nReactDOMServer.renderToString(<MyComponent />);\n```\n\n## API\n\n### `react-dom`\n\n- `findDOMNode`\n- `render`\n- `unmountComponentAtNode`\n\n### `react-dom/server`\n\n- `renderToString`\n- `renderToStaticMarkup`\n',
+124 silly resolved     readmeFilename: 'README.md',
+124 silly resolved     _id: 'react-dom@0.14.3',
+124 silly resolved     _from: 'react-dom@~0.14.3' },
+124 silly resolved   { name: 'babelify',
+124 silly resolved     description: 'Babel browserify transform',
+124 silly resolved     version: '7.2.0',
+124 silly resolved     author: { name: 'Sebastian McKenzie', email: 'sebmck@gmail.com' },
+124 silly resolved     license: 'MIT',
+124 silly resolved     homepage: 'https://github.com/babel/babelify',
+124 silly resolved     repository: { type: 'git', url: 'https://github.com/babel/babelify.git' },
+124 silly resolved     bugs: { url: 'https://github.com/babel/babelify/issues' },
+124 silly resolved     dependencies: { 'babel-core': '^6.0.14', 'object-assign': '^4.0.0' },
+124 silly resolved     devDependencies:
+124 silly resolved      { 'babel-plugin-transform-es3-property-literals': '^6.0.14',
+124 silly resolved        'babel-plugin-transform-node-env-inline': '^6.0.14',
+124 silly resolved        'babel-plugin-transform-react-display-name': '^6.0.14',
+124 silly resolved        'babel-plugin-undeclared-variables-check': '^6.0.14',
+124 silly resolved        'babel-preset-es2015': '^6.0.14',
+124 silly resolved        'babel-preset-react': '^6.0.14',
+124 silly resolved        browserify: '^12.0.1',
+124 silly resolved        'convert-source-map': '^1.1.0',
+124 silly resolved        tap: '^2.1.1' },
+124 silly resolved     scripts: { test: 'tap test/*.js' },
+124 silly resolved     readme: '# babelify [![Build Status](https://travis-ci.org/babel/babelify.svg?branch=master)](https://travis-ci.org/babel/babelify)\n\n[Babel](https://github.com/babel/babel) [browserify](https://github.com/substack/node-browserify) transform.\n\nAs of [Babel 6.0.0](http://babeljs.io/blog/2015/10/29/6.0.0/) there are **no plugins included by default**. For babelify to be useful, you must also include some [presets](http://babeljs.io/docs/plugins/#presets) and/or [plugins](http://babeljs.io/docs/plugins/#transform).\n\n## Installation\n\n```sh\n$ npm install --save-dev babelify\n```\n\n## Usage\n\n### CLI\n\n```sh\n$ browserify script.js -o bundle.js \\\n  -t [ babelify --presets [ es2015 react ] ]\n```\n\n### Node\n\n```javascript\nvar fs = require("fs");\nvar browserify = require("browserify");\nbrowserify("./script.js")\n  .transform("babelify", {presets: ["es2015", "react"]})\n  .bundle()\n  .pipe(fs.createWriteStream("bundle.js"));\n```\n\n**NOTE:** [Presets and plugins](http://babeljs.io/docs/plugins/) need to be installed as separate modules. For the above examples to work, you\'d need to also install [`babel-preset-es2015`](https://www.npmjs.com/package/babel-preset-es2015) and [`babel-preset-react`](https://www.npmjs.com/package/babel-preset-react):\n\n```sh\n$ npm install --save-dev babel-preset-es2015 babel-preset-react\n```\n\n### Options\n\nSelected options are discussed below. See the [babel](http://babeljs.io/) docs for the complete list of [options](http://babeljs.io/docs/usage/options/).\n\nOptions may be passed in via standard [browserify](https://github.com/substack/node-browserify#btransformtr-opts) ways:\n\n```sh\n$ browserify -t [ babelify --presets [ es2015 react ] ]\n```\n\n```js\nbrowserify().transform("babelify", {presets: ["es2015", "react"]});\n```\n\n```js\nvar babelify = require("babelify");\nbrowserify().transform(babelify, {presets: ["es2015", "react"]});\n```\n\nOr, with the `configure` method:\n\n```js\nbrowserify().transform(babelify.configure({\n  presets: ["es2015", "react"]\n}));\n```\n\n#### Customizing extensions\n\nBy default, all files with the extensions `.js`, `.es`, `.es6` and `.jsx` are compiled. You can change this by passing an array of extensions.\n\n**NOTE:** This will override the default ones so if you want to use any of them\nyou have to add them back.\n\n```js\nbrowserify().transform("babelify", {extensions: [".babel"]});\n```\n\n```sh\n$ browserify -t [ babelify --extensions .babel ]\n```\n\nNow you can use:\n\n```js\nimport NavBar from "nav-bar.babel";\nvar Panels = require("panels.babel");\n```\n\n**NOTE:** By default, Browserify will only lookup `.js` and `.json` files when the extension is ommited (like node\'s `require`). To lookup additional extensions, use browserify\'s [`extensions` option](https://github.com/substack/node-browserify#browserifyfiles--opts).\n\n```js\nbrowserify({\n  extensions: [".babel"]\n}).transform("babelify", {\n  extensions: [".babel"]\n});\n```\n\n```sh\n$ browserify --extensions=.babel -t [ babelify --extensions .babel ]\n```\n\nNow you can omit the extension and compile `.babel` files:\n\n```js\nimport NavBar from "nav-bar";\nvar Panels = require("panels");\n```\n\n#### Relative source maps\n\nBrowserify passes an absolute path so there\'s no way to determine what folder\nit\'s relative to. You can pass a relative path that\'ll be removed from the\nabsolute path with the `sourceMapRelative` option.\n\n```js\nbrowserify().transform("babelify", {\n  sourceMapRelative: "/Users/sebastian/Projects/my-cool-website/assets"\n});\n```\n\n```sh\n$ browserify -t [ babelify --sourceMapRelative . ]\n```\n\n#### Additional options\n\n```javascript\nbrowserify().transform(babelify.configure({\n  // Optional ignore regex - if any filenames **do** match this regex then\n  // they aren\'t compiled\n  ignore: /regex/,\n\n  // Optional only regex - if any filenames **don\'t** match this regex\n  // then they aren\'t compiled\n  only: /my_es6_folder/\n}))\n```\n\n```sh\n$ browserify -t [ babelify --ignore regex --only my_es6_folder ]\n```\n\n#### Babel result (metadata and others)\n\nBabelify emits a `babelify` event with Babel\'s full result object as the first\nargument, and the filename as the second. Browserify doesn\'t pass-through the\nevents emitted by a transform, so it\'s necessary to get a reference to the\ntransform instance before you can attach a listener for the event:\n\n```js\nvar b = browserify().transform(babelify);\n\nb.on("transform", function(tr) {\n  if (tr instanceof babelify) {\n    tr.once("babelify", function(result, filename) {\n      result; // => { code, map, ast, metadata }\n    });\n  }\n});\n```\n\n## FAQ\n\n### Why aren\'t files in `node_modules` being transformed?\n\nThis is the default browserify behavior.\n\nA possible solution is to add:\n\n```json\n{\n  "browserify": {\n    "transform": ["babelify"]\n  }\n}\n```\n\nto the root of all your modules `package.json` that you want to be transformed. If you\'d like to\nspecify options then you can use:\n\n```json\n{\n  "browserify": {\n    "transform": [["babelify", { "presets": ["es2015"] }]]\n  }\n}\n```\n\nAnother solution (proceed with caution!) is to run babelify as a [global](https://github.com/substack/node-browserify#btransformtr-opts) transform. Use the babel [`ignore` option](http://babeljs.io/docs/usage/options/) to narrow the number of files transformed:\n\n```js\nbrowserify().transform(babelify, {\n  global: true,\n  ignore: /\\/node_modules\\/(?!app\\/)/\n});\n```\n\nThe above example will transform all files except those in the `node_modules` directory that are not in `node_modules/app`.\n\n### Why am I not getting source maps?\n\nTo use source maps, enable them in browserify with the [`debug`](https://github.com/substack/node-browserify#browserifyfiles--opts) option:\n\n```js\nbrowserify({debug: true}).transform("babelify");\n```\n\n```sh\n$ browserify -d -t [ babelify ]\n```\n\nIf you want the source maps to be of the post-transpiled code, then leave `debug` on, but turn off babelify\'s `sourceMaps`:\n\n```js\nbrowserify({debug: true}).transform("babelify", {sourceMaps: false});\n```\n\n```sh\n$ browserify -d -t [ babelify --no-sourceMaps ]\n```\n',
+124 silly resolved     readmeFilename: 'README.md',
+124 silly resolved     _id: 'babelify@7.2.0',
+124 silly resolved     _from: 'babelify@~7.2.0' },
+124 silly resolved   { name: 'react',
+124 silly resolved     description: 'React is a JavaScript library for building user interfaces.',
+124 silly resolved     version: '0.14.3',
+124 silly resolved     keywords: [ 'react' ],
+124 silly resolved     homepage: 'https://github.com/facebook/react/tree/master/npm-react',
+124 silly resolved     bugs: { url: 'https://github.com/facebook/react/issues' },
+124 silly resolved     license: 'BSD-3-Clause',
+124 silly resolved     files:
+124 silly resolved      [ 'LICENSE',
+124 silly resolved        'PATENTS',
+124 silly resolved        'addons.js',
+124 silly resolved        'react.js',
+124 silly resolved        'addons/',
+124 silly resolved        'dist/',
+124 silly resolved        'lib/' ],
+124 silly resolved     main: 'react.js',
+124 silly resolved     repository: { type: 'git', url: 'git://github.com/facebook/react' },
+124 silly resolved     engines: { node: '>=0.10.0' },
+124 silly resolved     dependencies: { envify: '^3.0.0', fbjs: '^0.3.1' },
+124 silly resolved     browserify: { transform: [Object] },
+124 silly resolved     readme: '# react\n\nAn npm package to get you immediate access to [React](https://facebook.github.io/react/),\nwithout also requiring the JSX transformer. This is especially useful for cases where you\nwant to [`browserify`](https://github.com/substack/node-browserify) your module using\n`React`.\n\n**Note:** by default, React will be in development mode. The development version includes extra warnings about common mistakes, whereas the production version includes extra performance optimizations and strips all error messages.\n\nTo use React in production mode, set the environment variable `NODE_ENV` to `production`. A minifier that performs dead-code elimination such as [UglifyJS](https://github.com/mishoo/UglifyJS2) is recommended to completely remove the extra code present in development mode.\n\n## Example Usage\n\n```js\nvar React = require(\'react\');\n\n// Addons are in separate packages:\nvar createFragment = require(\'react-addons-create-fragment\');\nvar immutabilityHelpers = require(\'react-addons-update\');\nvar CSSTransitionGroup = require(\'react-addons-css-transition-group\');\n```\n\nFor a complete list of addons visit the [addons documentation page](https://facebook.github.io/react/docs/addons.html).\n',
+124 silly resolved     readmeFilename: 'README.md',
+124 silly resolved     _id: 'react@0.14.3',
+124 silly resolved     _from: 'react@~0.14.3' },
+124 silly resolved   { name: 'babel-preset-react',
+124 silly resolved     version: '6.3.13',
+124 silly resolved     description: 'Babel preset for all React plugins.',
+124 silly resolved     author: { name: 'Sebastian McKenzie', email: 'sebmck@gmail.com' },
+124 silly resolved     homepage: 'https://babeljs.io/',
+124 silly resolved     license: 'MIT',
+124 silly resolved     repository:
+124 silly resolved      { type: 'git',
+124 silly resolved        url: 'https://github.com/babel/babel/tree/master/packages/babel-preset-react' },
+124 silly resolved     main: 'index.js',
+124 silly resolved     dependencies:
+124 silly resolved      { 'babel-plugin-syntax-flow': '^6.3.13',
+124 silly resolved        'babel-plugin-syntax-jsx': '^6.3.13',
+124 silly resolved        'babel-plugin-transform-flow-strip-types': '^6.3.13',
+124 silly resolved        'babel-plugin-transform-react-display-name': '^6.3.13',
+124 silly resolved        'babel-plugin-transform-react-jsx': '^6.3.13',
+124 silly resolved        'babel-plugin-transform-react-jsx-source': '^6.3.13' },
+124 silly resolved     readme: '# babel-preset-react\n\n> Babel preset for all React plugins.\n\n## Install\n\n```sh\n$ npm install --save-dev babel-preset-react\n```\n\n## Usage\n\n### Via `.babelrc` (Recommended)\n\n**.babelrc**\n\n```json\n{\n  "presets": ["react"]\n}\n```\n\n### Via CLI\n\n```sh\n$ babel script.js --presets react \n```\n\n### Via Node API\n\n```javascript\nrequire("babel-core").transform("code", {\n  presets: ["react"]\n});\n```\n',
+124 silly resolved     readmeFilename: 'README.md',
+124 silly resolved     _id: 'babel-preset-react@6.3.13',
+124 silly resolved     _from: 'babel-preset-react@~6.3.13' } ]
+125 info install react-dom@0.14.3 into D:\Git\github\reactjs
+126 info install babelify@7.2.0 into D:\Git\github\reactjs
+127 info install react@0.14.3 into D:\Git\github\reactjs
+128 info install babel-preset-react@6.3.13 into D:\Git\github\reactjs
+129 info installOne react-dom@0.14.3
+130 info installOne babelify@7.2.0
+131 info installOne react@0.14.3
+132 info installOne babel-preset-react@6.3.13
+133 info D:\Git\github\reactjs\node_modules\react-dom unbuild
+134 info preuninstall react-dom@0.14.3
+135 info D:\Git\github\reactjs\node_modules\babelify unbuild
+136 info preuninstall babelify@7.2.0
+137 info D:\Git\github\reactjs\node_modules\react unbuild
+138 info preuninstall react@0.14.3
+139 info D:\Git\github\reactjs\node_modules\babel-preset-react unbuild
+140 info preuninstall babel-preset-react@6.3.13
+141 info uninstall react-dom@0.14.3
+142 info uninstall babelify@7.2.0
+143 info uninstall react@0.14.3
+144 info uninstall babel-preset-react@6.3.13
+145 verbose true,D:\Git\github\reactjs\node_modules,D:\Git\github\reactjs\node_modules unbuild react-dom@0.14.3
+146 info postuninstall react-dom@0.14.3
+147 verbose true,D:\Git\github\reactjs\node_modules,D:\Git\github\reactjs\node_modules unbuild react@0.14.3
+148 info postuninstall react@0.14.3
+149 verbose true,D:\Git\github\reactjs\node_modules,D:\Git\github\reactjs\node_modules unbuild babelify@7.2.0
+150 info postuninstall babelify@7.2.0
+151 verbose true,D:\Git\github\reactjs\node_modules,D:\Git\github\reactjs\node_modules unbuild babel-preset-react@6.3.13
+152 info postuninstall babel-preset-react@6.3.13
+153 verbose tar unpack d:\Users\changq\AppData\Roaming\npm-cache\react-dom\0.14.3\package.tgz
+154 silly lockFile ef9586a8-b-reactjs-node-modules-react-dom tar://D:\Git\github\reactjs\node_modules\react-dom
+155 verbose lock tar://D:\Git\github\reactjs\node_modules\react-dom d:\Users\changq\AppData\Roaming\npm-cache\ef9586a8-b-reactjs-node-modules-react-dom.lock
+156 silly lockFile a0d0c441-che-react-dom-0-14-3-package-tgz tar://d:\Users\changq\AppData\Roaming\npm-cache\react-dom\0.14.3\package.tgz
+157 verbose lock tar://d:\Users\changq\AppData\Roaming\npm-cache\react-dom\0.14.3\package.tgz d:\Users\changq\AppData\Roaming\npm-cache\a0d0c441-che-react-dom-0-14-3-package-tgz.lock
+158 silly gunzTarPerm modes [ '755', '644' ]
+159 silly gunzTarPerm extractEntry package.json
+160 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+161 silly gunzTarPerm extractEntry README.md
+162 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+163 silly gunzTarPerm extractEntry LICENSE
+164 silly gunzTarPerm modified mode [ 'LICENSE', 438, 420 ]
+165 silly gunzTarPerm extractEntry index.js
+166 silly gunzTarPerm modified mode [ 'index.js', 438, 420 ]
+167 silly gunzTarPerm extractEntry server.js
+168 silly gunzTarPerm modified mode [ 'server.js', 438, 420 ]
+169 silly gunzTarPerm extractEntry PATENTS
+170 silly gunzTarPerm modified mode [ 'PATENTS', 438, 420 ]
+171 silly gunzTarPerm extractEntry dist/react-dom-server.js
+172 silly gunzTarPerm modified mode [ 'dist/react-dom-server.js', 438, 420 ]
+173 silly gunzTarPerm extractEntry dist/react-dom-server.min.js
+174 silly gunzTarPerm modified mode [ 'dist/react-dom-server.min.js', 438, 420 ]
+175 silly gunzTarPerm extractEntry dist/react-dom.js
+176 silly gunzTarPerm modified mode [ 'dist/react-dom.js', 438, 420 ]
+177 silly gunzTarPerm extractEntry dist/react-dom.min.js
+178 silly gunzTarPerm modified mode [ 'dist/react-dom.min.js', 438, 420 ]
+179 silly lockFile ef9586a8-b-reactjs-node-modules-react-dom tar://D:\Git\github\reactjs\node_modules\react-dom
+180 silly lockFile ef9586a8-b-reactjs-node-modules-react-dom tar://D:\Git\github\reactjs\node_modules\react-dom
+181 silly lockFile a0d0c441-che-react-dom-0-14-3-package-tgz tar://d:\Users\changq\AppData\Roaming\npm-cache\react-dom\0.14.3\package.tgz
+182 silly lockFile a0d0c441-che-react-dom-0-14-3-package-tgz tar://d:\Users\changq\AppData\Roaming\npm-cache\react-dom\0.14.3\package.tgz
+183 info preinstall react-dom@0.14.3
+184 verbose readDependencies using package.json deps
+185 verbose readDependencies using package.json deps
+186 silly resolved []
+187 verbose about to build D:\Git\github\reactjs\node_modules\react-dom
+188 info build D:\Git\github\reactjs\node_modules\react-dom
+189 verbose linkStuff [ false, false, false, 'D:\\Git\\github\\reactjs\\node_modules' ]
+190 info linkStuff react-dom@0.14.3
+191 verbose linkBins react-dom@0.14.3
+192 verbose linkMans react-dom@0.14.3
+193 verbose rebuildBundles react-dom@0.14.3
+194 info install react-dom@0.14.3
+195 info postinstall react-dom@0.14.3
+196 verbose tar unpack d:\Users\changq\AppData\Roaming\npm-cache\react\0.14.3\package.tgz
+197 silly lockFile ef174c9d-ithub-reactjs-node-modules-react tar://D:\Git\github\reactjs\node_modules\react
+198 verbose lock tar://D:\Git\github\reactjs\node_modules\react d:\Users\changq\AppData\Roaming\npm-cache\ef174c9d-ithub-reactjs-node-modules-react.lock
+199 silly lockFile efa53011-m-cache-react-0-14-3-package-tgz tar://d:\Users\changq\AppData\Roaming\npm-cache\react\0.14.3\package.tgz
+200 verbose lock tar://d:\Users\changq\AppData\Roaming\npm-cache\react\0.14.3\package.tgz d:\Users\changq\AppData\Roaming\npm-cache\efa53011-m-cache-react-0-14-3-package-tgz.lock
+201 silly lockFile ef174c9d-ithub-reactjs-node-modules-react tar://D:\Git\github\reactjs\node_modules\react
+202 silly lockFile ef174c9d-ithub-reactjs-node-modules-react tar://D:\Git\github\reactjs\node_modules\react
+203 silly lockFile efa53011-m-cache-react-0-14-3-package-tgz tar://d:\Users\changq\AppData\Roaming\npm-cache\react\0.14.3\package.tgz
+204 silly lockFile efa53011-m-cache-react-0-14-3-package-tgz tar://d:\Users\changq\AppData\Roaming\npm-cache\react\0.14.3\package.tgz
+205 info D:\Git\github\reactjs\node_modules\react unbuild
+206 error error rolling back Error: EPERM, unlink 'D:\Git\github\reactjs\node_modules\react'
+206 error error rolling back  react@0.14.3 { [Error: EPERM, unlink 'D:\Git\github\reactjs\node_modules\react']
+206 error error rolling back   errno: 50,
+206 error error rolling back   code: 'EPERM',
+206 error error rolling back   path: 'D:\\Git\\github\\reactjs\\node_modules\\react' }
+207 error Error: EPERM, unlink 'D:\Git\github\reactjs\node_modules\react'
+207 error  { [Error: EPERM, unlink 'D:\Git\github\reactjs\node_modules\react']
+207 error   errno: 50,
+207 error   code: 'EPERM',
+207 error   path: 'D:\\Git\\github\\reactjs\\node_modules\\react' }
+208 error Please try running this command again as root/Administrator.
+209 error System Windows_NT 6.1.7601
+210 error command "D:\\Server\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\\\node.exe" "D:\\Server\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\node_modules\\npm\\bin\\npm-cli.js" "install" "--save" "react" "react-dom" "babelify" "babel-preset-react"
+211 error cwd D:\Git\github\reactjs
+212 error node -v v0.10.15
+213 error npm -v 1.4.3
+214 error path D:\Git\github\reactjs\node_modules\react
+215 error code EPERM
+216 error errno 50
+217 error stack Error: EPERM, unlink 'D:\Git\github\reactjs\node_modules\react'
+218 verbose exit [ 50, true ]
